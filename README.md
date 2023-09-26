@@ -1,7 +1,7 @@
 # Sensor Data Logger
 Sensor Data Logger is a dashboard for your device sensors. It plots charts that show the values of selected sensors in real-time, even from connected Android Wear devices.
 
-You can get the app from the [Play Store](https://play.google.com/store/apps/details?id=net.steppschuh.sensordatalogger) or install the latest [apk file](https://github.com/Steppschuh/Sensor-Data-Logger/tree/master/Releases).
+You can get the app from [Releases - apk file](./Releases).
 
 See screenshots at [Media](./Media/):
 
