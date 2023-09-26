@@ -5,7 +5,7 @@ You can get the app from [Releases - apk file](./Releases).
 
 See screenshots at [Media](./Media/):
 
-![Screencast](https://raw.githubusercontent.com/realysy/Sensor-Data-Logger/master/Media/Screencasts/sensor_data_bw_long_500.gif)
+![Screencast](./Media/Screencasts/sensor_data_bw_long_500.gif)
 
 
 ### Visualize all the data
